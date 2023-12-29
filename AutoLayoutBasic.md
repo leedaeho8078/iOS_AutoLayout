@@ -48,4 +48,11 @@
   * 두 가지 속성(사이즈 : 높이 랑 넓이, 위치: leading, Left and Top)
   * `=` 할당은 아니다. 같은식이다 -> 라고 알려주는 것
 
-5. 
+5. StoryBoard
+
+
+7. Intrinsic Content Size
+   콘텐츠의 사이즈를 기본으로 뷰의 사이즈 결정
+
+   <img width="500" alt="image" src="https://github.com/leedaeho8078/iOS_AutoLayout/assets/83402908/2dfaa473-90ff-4eed-8fe9-604439d718ea">
+
